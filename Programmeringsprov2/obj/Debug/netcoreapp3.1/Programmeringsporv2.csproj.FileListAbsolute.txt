@@ -1,0 +1,13 @@
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.csprojAssemblyReference.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.AssemblyInfoInputs.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.AssemblyInfo.cs
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.csproj.CoreCompileInputs.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.exe
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.deps.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.runtimeconfig.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.runtimeconfig.dev.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.dll
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\bin\Debug\netcoreapp3.1\Programmeringsporv2.pdb
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.dll
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.pdb
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsporv 2\Programmeringsprov2\obj\Debug\netcoreapp3.1\Programmeringsporv2.genruntimeconfig.cache
